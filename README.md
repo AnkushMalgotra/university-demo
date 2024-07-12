@@ -2,5 +2,5 @@
 "This is my git repo"
 <br>
 
-Created by : Ankush
+Created by : Ankush Malgotra
 Updated
